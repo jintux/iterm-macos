@@ -6,6 +6,8 @@ oh-my-zsh: http://ohmyz.sh
 
 powerline fonts: https://github.com/powerline/fonts
 
+iterm color profiles: http://iterm2colorschemes.com
+
 
 # Configure iTerm2
 
